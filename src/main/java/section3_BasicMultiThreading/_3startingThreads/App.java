@@ -1,4 +1,4 @@
-package section3_BasicMultiThreading.startingThreads;
+package section3_BasicMultiThreading._3startingThreads;
 
 class Runner1 extends Thread {
   @Override

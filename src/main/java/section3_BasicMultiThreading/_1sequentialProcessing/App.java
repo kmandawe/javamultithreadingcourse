@@ -1,4 +1,4 @@
-package section3_BasicMultiThreading.sequentialProcessing;
+package section3_BasicMultiThreading._1sequentialProcessing;
 
 class Runner1 {
   public void startRunning() {

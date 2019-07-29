@@ -1,4 +1,4 @@
-package section3_BasicMultiThreading.startingRunnable;
+package section3_BasicMultiThreading._2startingRunnable;
 
 class Runner1 implements Runnable {
   @Override
